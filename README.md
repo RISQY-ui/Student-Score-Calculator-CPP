@@ -21,4 +21,4 @@ A simple student score management system built with **C++** using **File I/O (fs
 
 ---
 
-## 📁 File Structure
+
